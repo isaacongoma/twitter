@@ -1,5 +1,5 @@
 {
-    "name": "laravel-notification-channels/twitter",
+    "name": "isaacongoma/twitter",
     "description": "This package makes it easy to send notifications via Twitter with Laravel",
     "homepage": "https://github.com/laravel-notification-channels/twitter",
     "license": "MIT",
